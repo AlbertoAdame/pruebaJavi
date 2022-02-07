@@ -1,4 +1,4 @@
-#Ejercicio 1 Añado
+#Ejercicio 1 Añado //hola buenas tardes//
 # from random import uniform
 # lista=[]
 # for i in range(0,100):
